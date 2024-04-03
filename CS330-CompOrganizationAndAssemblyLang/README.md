@@ -1,4 +1,4 @@
-# Computer Organization and Assembly Language Assignments README
+# Computer Organization and Assembly Language Assignments
 
 Welcome to the Computer Organization and Assembly Language assignments folder! Here, you'll find a collection of projects completed during my course at The University of Alabama at Birmingham, focusing on fundamental concepts of computer organization and low-level programming. These projects are written in either C or Assembly language, providing hands-on experience with various programming paradigms.
 
