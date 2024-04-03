@@ -1,4 +1,4 @@
-# Computer Organization and Assembly Language Projects
+# Computer Organization and Assembly Language Assignments README
 
 Welcome to the Computer Organization and Assembly Language assignments folder! Here, you'll find a collection of projects completed during my course at The University of Alabama at Birmingham, focusing on fundamental concepts of computer organization and low-level programming. These projects are written in either C or Assembly language, providing hands-on experience with various programming paradigms.
 
@@ -18,7 +18,9 @@ The final project in this folder involves implementing basic calculation functio
 
 ## Running the Projects
 
-Each project directory contains instructions on how to compile and run the code. Make sure you have the necessary development tools installed for compiling Assembly code if applicable. Follow the guidelines provided within each project's README for successful execution.
+To run these projects, you can use the UAB-owned Vulcan server or WSL with Ubuntu:
+- **Vulcan Server (UAB):** Access the Vulcan server provided by UAB to compile and run the code. Ensure you have appropriate access credentials to log in to the server.
+- **WSL with Ubuntu:** Alternatively, you can set up the Windows Subsystem for Linux (WSL) with Ubuntu on your local machine to run these projects. Follow the instructions provided within each project's README for compilation and execution.
 
 ## Contributing
 
