@@ -1,4 +1,4 @@
-# C Projects Repository README
+# C Projects Repository
 
 Welcome to my C projects repository! This repository houses projects completed during my studies at the University of Alabama at Birmingham (UAB). The projects are primarily divided into two folders:
 
