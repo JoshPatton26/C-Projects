@@ -23,7 +23,3 @@ Alternatively, you can set up the Windows Subsystem for Linux (WSL) with Ubuntu 
 ## Contributing
 
 If you find any issues with the projects or have suggestions for improvements, feel free to open an issue or submit a pull request. Contributions are always welcome!
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational purposes or any other non-commercial purposes as per the terms of the license.
